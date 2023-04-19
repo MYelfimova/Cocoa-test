@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of Cocoa-test.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/Maria_Yelfimova/Cocoa-test",
+  "homepage": "https://github.com/MYelfimova/Cocoa-test",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Maria_Yelfimova": "maria@kidoz.net"
+    "MYelfimova": "maria@kidoz.net"
   },
   "source": {
-    "git": "https://github.com/Maria_Yelfimova/Cocoa-test.git",
+    "git": "https://github.com/MYelfimova/Cocoa-test.git",
     "tag": "0.1.0"
   },
   "platforms": {

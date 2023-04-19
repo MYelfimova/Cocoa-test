@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import Test
+import CocoaTest
 
 class ViewController: UIViewController {
 

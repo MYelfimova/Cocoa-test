@@ -1,0 +1,16 @@
+PODS:
+  - Cocoa-test (0.1.0)
+
+DEPENDENCIES:
+  - Cocoa-test (from `../`)
+
+EXTERNAL SOURCES:
+  Cocoa-test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Cocoa-test: 73d85e22f9251b97e1a1d426e626ad3da3be4700
+
+PODFILE CHECKSUM: 79286cf1febefda0da884b9eb653f5671977058e
+
+COCOAPODS: 1.12.0
